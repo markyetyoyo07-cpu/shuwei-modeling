@@ -14,4 +14,3 @@
 ## 设计参考
 
 本项目参考 XiaoMaColtAI/math-modeling-skill、jihe520/MathModelAgent 和 rootkiller6788/mathmodel-skill 的工作流设计，重新编写了当前指令文本，未复制其完整程序或角色手册。链接见 [README](README.md#设计参考)。本项目不代表上述项目或赛事官方背书。
-

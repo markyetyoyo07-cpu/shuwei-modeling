@@ -17,4 +17,3 @@
 | assets/official-2026-autumn-latex.zip | https://www.nmmcm.org.cn/static/upload/file/20261110/1794283053145164.zip | 53652fc1e88444ce9eeeebae9ed6e038d7c8e2a9517465667c6b5c72f28b1a3f |
 
 LaTeX压缩包包含demo.tex、swmcmthesis.cls、swmcmthesis.cfg、示例图片和demo.pdf。已检查包目录及入口文本；本机未发现TeX编译器，未进行编译验证。附带demo.pdf是原发布者样例，不能作为本次编译成功证据。Word已检查可解析及正文内容，没有修改模板。
-
