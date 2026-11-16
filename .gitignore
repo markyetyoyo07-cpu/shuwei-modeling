@@ -1,0 +1,16 @@
+# Local contest work and credentials do not belong in the reusable skill repo.
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+state/
+data/
+results/
+figures/
+checks/
+checkpoints/
+submission/
+ai_usage.md

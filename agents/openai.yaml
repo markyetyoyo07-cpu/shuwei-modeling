@@ -1,0 +1,4 @@
+interface:
+  display_name: "数维杯建模协作"
+  short_description: "按当届规则辅助数维杯备赛与参赛，整理队员方案、运行证据、英文排版和交付核验"
+  default_prompt: "使用 $shuwei-modeling，确认我的数维杯届次与官方规则，建立参赛计划、证据记录和 AI 使用台账。"
